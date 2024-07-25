@@ -1,5 +1,9 @@
+import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
+
 const GsapScrollTrigger = () => {
   // TODO: Implement the gsap scroll trigger
+
 
   return (
     <main>
